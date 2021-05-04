@@ -1,0 +1,14 @@
+{
+  "name": "thischimp",
+  "version": "1.0.0",
+  "description": "Mail web application to collect user email and later send user something",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrews",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
